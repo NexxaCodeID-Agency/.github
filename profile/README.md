@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/NexxaCodeID-Agency">
-    <img src="https://github.com/user-attachments/assets/8c96c320-87e5-4344-9045-48a6b7df0685" width="320" alt="NexxaCodeID Logo">
+    <img src="https://github.com/user-attachments/assets/73d7b5f3-9ca7-4ec3-9b74-36f1eeed5cca" width="320" alt="NexxaCodeID Logo">
   </a>
   <h1>🚀 NexxaCodeID - Digital Agency</h1>
   <p><i>"Architecting the Future, One Line of Code at a Time."</i></p>

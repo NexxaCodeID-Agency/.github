@@ -23,7 +23,7 @@ NexxaCodeID is a high-performance technical team based in Kediri, Indonesia 🇮
 * **[Kasirkuy](https://github.com/NexxaCodeID-Agency/kasirkuy)** - Modern point-of-sale for high-speed retail.
 
 ### 👥 Meet The Architects
-| <img src="https://github.com/AbdulRozaq345.png" width="100"><br>**Fang Xiao** | <img src="https://github.com/raditya.png" width="100"><br>**Raditya** | <img src="https://github.com/fathir.png" width="100"><br>**Fathir** |
+| <img src="https://github.com/AbdulRozaq345.png" width="100"><br>**Fang Xiao** | <img src="https://github.com/radhityaranggapratama15-cloud" width="100"><br>**Raditya** | <img src="https://github.com/fathir.png" width="100"><br>**Fathir** |
 | :---: | :---: | :---: |
 | **Founder & Full-Stack** | **Cyber Security** | **Project Manager** |
 
